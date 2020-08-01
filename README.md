@@ -39,7 +39,8 @@
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)                 
 👆主openclash插件。推荐动手能力超强喜爱究极自定义的专业用户使用                                  
   ** [三分钟上手](https://youtu.be/6qqWEPK9ODs)             
-  ** [搭配使用smartdns&openclash](https://youtu.be/xb-b2xS-tqw)                
+  ** [搭配使用smartdns&openclash](https://youtu.be/xb-b2xS-tqw)      
+  ** 手动添加自定义规则走代理举例：- DOMAIN-KEYWORD,tiktok,Domestic                       
 * openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash/tree/master)                  
 
 ----------------------------------------------------------------------------------
