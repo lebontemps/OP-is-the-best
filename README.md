@@ -44,6 +44,7 @@
   ** 建议使用fake-ip模式     
   ** 修改ALN口IP时建议使用强制应用(应用按钮下拉菜单可见)                 
 * openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash/tree/master)                  
+* [官方openwrt](https://github.com/openwrt/openwrt)                 
 
 ----------------------------------------------------------------------------------
 * [N1 passwallOpenWRT固件频道](https://t.me/n1passwall)                  
