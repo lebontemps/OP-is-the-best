@@ -1,4 +1,4 @@
-![](https://pic.downk.cc/item/5f13d9fc14195aa594c0dc50.png)              
+![aNHlZt.png](https://s1.ax1x.com/2020/08/03/aNHlZt.png)                   
 
 * telegram全平台客户端[下载页](https://telegram.org/apps)       
 * telegram[汉化](https://t.me/setlanguage/classic-zh)      
